@@ -70,7 +70,7 @@ UX ResearcherSpotify generates
 
 # **_My Role✨_**
 
-UX ResearcherSpotify generates [test-project/🔨 Testing Overview](http://localhost:5001/repos/Z2l0aHViJTNBJTNBdGVzdC1wcm9qZWN0JTNBJTNBbmFkYXYtc3dpbW0=/docs/atyuz)[](https://google.com)
+UX ResearcherSpotify generates
 
 # **_My Role✨_**
 
@@ -86,7 +86,13 @@ Personal Portfolio
 
 # **UX Research Process📚🪜**
 
-![](https://miro.medium.com/max/1400/1*IkzBcP5Ks6VQ-cfouIfsfw.png)
+
+
+
+![null](https://miro.medium.com/max/1400/1*IkzBcP5Ks6VQ-cfouIfsfw.png)
+
+
+
 
 # **Research Objective📝**
 
