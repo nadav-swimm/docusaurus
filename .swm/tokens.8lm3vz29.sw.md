@@ -11,7 +11,7 @@ title: Tokens
 
 <SwmToken path="/website/src/utils/jsUtils.ts" pos="10:29:32" line-data="  return arrays.reduce((a, b) =&gt; a.filter((c) =&gt; !b.includes(c)));">`includes(c)`</SwmToken>
 
-&nbsp;
+<SwmToken path="/website/src/utils/jsUtils.ts" pos="9:21:23" line-data="export function difference&lt;T&gt;(...arrays: T[][]): T[] {">`T[]`</SwmToken>
 
 <SwmToken path="/website/src/utils/jsUtils.ts" pos="16:13:17" line-data="  getter: (item: T) =&gt; string | number | boolean,">`string | number`</SwmToken>
 
