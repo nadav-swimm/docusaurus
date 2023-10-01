@@ -13,6 +13,10 @@ title: Tokens
 
 &nbsp;
 
+<SwmToken path="/website/src/utils/jsUtils.ts" pos="16:13:17" line-data="  getter: (item: T) =&gt; string | number | boolean,">`string | number`</SwmToken>
+
+&nbsp;
+
 <SwmSnippet path="/website/src/utils/jsUtils.ts" line="9">
 
 ---
