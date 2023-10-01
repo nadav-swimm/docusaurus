@@ -1,0 +1,38 @@
+---
+title: Tokens
+---
+&nbsp;
+
+<SwmToken path="/examples/classic/src/components/HomepageFeatures/index.js" pos="7:4:10" line-data="    title: &#39;Easy to Use&#39;,">`'Easy to Use'`</SwmToken>
+
+<SwmToken path="/examples/classic/src/components/HomepageFeatures/index.js" pos="41:6:10" line-data="      &lt;div className=&quot;text--center&quot;&gt;">`"text--center"`</SwmToken>
+
+&nbsp;
+
+&nbsp;
+
+<SwmSnippet path="/examples/classic/src/components/HomepageFeatures/index.js" line="4">
+
+---
+
+&nbsp;
+
+```javascript
+
+const FeatureList = [
+  {
+    title: 'Easy to Use',
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    description: (
+      <>
+        Docusaurus was designed from the ground up to be easily installed and
+        used to get your website up and running quickly.
+      </>
+    ),
+```
+
+---
+
+</SwmSnippet>
+
+<SwmMeta repo-id="Z2l0aHViJTNBJTNBZG9jdXNhdXJ1cyUzQSUzQW5hZGF2LXN3aW1t" repo-name="docusaurus"><sup>Powered by [Swimm](http://localhost:5001/)</sup></SwmMeta>
