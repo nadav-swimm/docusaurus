@@ -7,7 +7,7 @@ title: Tokens
 
 <SwmToken path="/examples/classic/src/components/HomepageFeatures/index.js" pos="41:6:10" line-data="      &lt;div className=&quot;text--center&quot;&gt;">`"text--center"`</SwmToken>
 
-&nbsp;
+<SwmToken path="/examples/classic/src/components/HomepageFeatures/index.js" pos="12:5:9" line-data="        used to get your website up and running quickly.">`get your website`</SwmToken>
 
 &nbsp;
 
