@@ -9,28 +9,25 @@ title: Tokens
 
 <SwmToken path="/examples/classic/src/components/HomepageFeatures/index.js" pos="12:5:9" line-data="        used to get your web site up and running quickly.">`get your web`</SwmToken>
 
-&nbsp;
-
 <SwmToken path="/website/src/utils/jsUtils.ts" pos="10:29:32" line-data="  return arrays.reduce((a, b) =&gt; a.filter((c) =&gt; !b.includes(c)));">`includes(c)`</SwmToken>
 
-<SwmSnippet path="/website/src/utils/jsUtils.ts" line="7">
+&nbsp;
+
+<SwmSnippet path="/website/src/utils/jsUtils.ts" line="9">
 
 ---
 
 &nbsp;
 
 ```typescript
-
-// Inspired by https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore#_difference
 export function difference<T>(...arrays: T[][]): T[] {
   return arrays.reduce((a, b) => a.filter((c) => !b.includes(c)));
+}
 ```
 
 ---
 
 </SwmSnippet>
-
-&nbsp;
 
 <SwmSnippet path="/examples/classic/src/components/HomepageFeatures/index.js" line="5">
 
