@@ -13,6 +13,27 @@ title: Tokens
 
 <SwmToken path="/website/src/utils/jsUtils.ts" pos="9:21:23" line-data="export function difference&lt;T&gt;(...arrays: T[][]): T[] {">`T[]`</SwmToken>
 
+<SwmToken path="/packages/docusaurus-plugin-content-blog/src/authors.ts" pos="20:8:11" line-data="const AuthorsMapSchema = Joi.object&lt;AuthorsMap&gt;().pattern(">`object<AuthorsMap>`</SwmToken>
+
+&nbsp;
+
+<SwmSnippet path="/packages/docusaurus-plugin-content-blog/src/authors.ts" line="19">
+
+---
+
+&nbsp;
+
+```typescript
+
+const AuthorsMapSchema = Joi.object<AuthorsMap>().pattern(
+  Joi.string(),
+  Joi.object({
+```
+
+---
+
+</SwmSnippet>
+
 <SwmToken path="/website/src/utils/jsUtils.ts" pos="16:13:17" line-data="  getter: (item: T) =&gt; string | number | boolean,">`string | number`</SwmToken>
 
 &nbsp;
