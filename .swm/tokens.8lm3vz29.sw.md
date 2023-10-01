@@ -7,18 +7,19 @@ title: Tokens
 
 <SwmToken path="/examples/classic/src/components/HomepageFeatures/index.js" pos="41:6:10" line-data="      &lt;div className=&quot;text--center&quot;&gt;">`"text--center"`</SwmToken>
 
-<SwmToken path="/examples/classic/src/components/HomepageFeatures/index.js" pos="12:5:9" line-data="        used to get your website up and running quickly.">`get your website`</SwmToken>
+<SwmToken path="/examples/classic/src/components/HomepageFeatures/index.js" pos="12:5:9" line-data="        used to get your web site up and running quickly.">`get your web`</SwmToken>
 
 &nbsp;
 
-<SwmSnippet path="/examples/classic/src/components/HomepageFeatures/index.js" line="4">
+&nbsp;
+
+<SwmSnippet path="/examples/classic/src/components/HomepageFeatures/index.js" line="5">
 
 ---
 
 &nbsp;
 
 ```javascript
-
 const FeatureList = [
   {
     title: 'Easy to Use',
@@ -26,7 +27,7 @@ const FeatureList = [
     description: (
       <>
         Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        used to get your web site up and running quickly.
       </>
     ),
 ```
